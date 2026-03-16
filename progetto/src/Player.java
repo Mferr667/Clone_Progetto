@@ -120,5 +120,4 @@ public class Player {
     protected void setTribe(Tribe tribe) {
         this.tribe = tribe;
     }
-
 }

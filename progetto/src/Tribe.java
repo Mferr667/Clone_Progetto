@@ -72,4 +72,5 @@ public class Tribe {
     protected void addBuilding(Building building) {
         buildings.add(building);
     }
+
 }

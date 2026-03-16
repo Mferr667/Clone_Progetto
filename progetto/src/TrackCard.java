@@ -44,5 +44,4 @@ public class TrackCard {
         playerTotem.setNumFood(playerTotem.getNumFood() + numFood);
 
     }
-
 }
