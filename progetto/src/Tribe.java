@@ -19,32 +19,37 @@ public class Tribe {
         this.buildings = new ArrayList<>();
     }
 
-    protected int huntersSize() {
-        return hunters.size();
+
+    // GETTERS
+    protected ArrayList<Hunter> getHunters() {
+        return hunters;
     }
 
-    protected int inventorsSize() {
-        return inventors.size();
+    protected ArrayList<Inventor> getInventors() {
+        return inventors;
     }
 
-    protected int shamansSize() {
-        return shamans.size();
+    protected ArrayList<Shaman> getShamans() {
+        return shamans;
     }
 
-    protected int gatherersSize() {
-        return gatherers.size();
+    protected ArrayList<Gatherer> getGatherers() {
+        return gatherers;
     }
 
-    protected int artistsSize() {
-        return artists.size();
+    protected ArrayList<Artist> getArtists() {
+        return artists;
     }
 
-    protected int buildersSize() {
-        return builders.size();
+    protected ArrayList<Builder> getBuilders() {
+        return builders;
     }
 
+    protected ArrayList<Building> getBuildings() {
+        return buildings;
+    }
 
-
+    // SETTERS
     protected void addHunter(Hunter hunter) {
         hunters.add(hunter);
     }
@@ -72,5 +77,4 @@ public class Tribe {
     protected void addBuilding(Building building) {
         buildings.add(building);
     }
-
 }
