@@ -1,0 +1,149 @@
+[
+  {
+    "name": "SET_COMPLETION_FOOD",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "TURN"
+  },
+  {
+    "name": "INVENTOR_PAIR_FOOD",
+    "cost": 3,
+    "basePrestige": 4,
+    "age": 1,
+    "activationPhase": "INVENTORS"
+  },
+  {
+    "name": "EXTRA_END_TURN_FOOD",
+    "cost": 3,
+    "basePrestige": 3,
+    "age": 1,
+    "activationPhase": "IMMEDIATE"
+  },
+  {
+    "name": "PLAYER_EXTRA_DRAFT",
+    "cost": 9,
+    "basePrestige": 3,
+    "age": 3,
+    "activationPhase": "IMMEDIATE"
+  },
+  {
+    "name": "SUSTENANCE_DISCOUNT_ARTISTS",
+    "cost": 5,
+    "basePrestige": 3,
+    "age": 1,
+    "activationPhase": "SUSTENANCE_EVENT"
+  },
+  {
+    "name": "SUSTENANCE_DISCOUNT_INVENTORS",
+    "cost": 7,
+    "basePrestige": 4,
+    "age": 2,
+    "activationPhase": "SUSTENANCE_EVENT"
+  },
+  {
+    "name": "SUSTENANCE_DISCOUNT_GATHERERS",
+    "cost": 4,
+    "basePrestige": 4,
+    "age": 1,
+    "activationPhase": "SUSTENANCE_EVENT"
+  },
+  {
+    "name": "SHAMANIC_PENALTY_SHIELD",
+    "cost": 5,
+    "basePrestige": 2,
+    "age": 1,
+    "activationPhase": "SHAMAN_EVENT"
+  },
+  {
+    "name": "EXTRA_SHAMANIC_STARS",
+    "cost": 6,
+    "basePrestige": 4,
+    "age": 2,
+    "activationPhase": "IMMEDIATE"
+  },
+  {
+    "name": "DOUBLE_SHAMANIC_REWARD",
+    "cost": 7,
+    "basePrestige": 0,
+    "age": 2,
+    "activationPhase": "SHAMAN_EVENT"
+  },
+  {
+    "name": "HUNT_EXTRA_FOOD_AND_PRESTIGE",
+    "cost": 7,
+    "basePrestige": 2,
+    "age": 2,
+    "activationPhase": "HUNT_EVENT"
+  },
+  {
+    "name": "PAINT_EXTRA_FOOD",
+    "cost": 5,
+    "basePrestige": 6,
+    "age": 2,
+    "activationPhase": "PAINT_EVENT"
+  },
+  {
+    "name": "END_GAME_SET_PRESTIGE",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  },
+  {
+    "name": "DOUBLE_BUILDER_PRESTIGE",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  },
+  {
+    "name": "FLAT_25_PRESTIGE",
+    "cost": 0,
+    "basePrestige": 25,
+    "age": 1,
+    "activationPhase": "PASSIVE"
+  },
+  {
+    "name": "SCORING_INVENTORS",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  },
+  {
+    "name": "SCORING_BUILDERS",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  },
+  {
+    "name": "SCORING_GATHERERS",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  },
+  {
+    "name": "SCORING_SHAMANS",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  },
+  {
+    "name": "SCORING_ARTISTS",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  },
+  {
+    "name": "SCORING_HUNTERS",
+    "cost": 0,
+    "basePrestige": 0,
+    "age": 1,
+    "activationPhase": "END_GAME"
+  }
+]
