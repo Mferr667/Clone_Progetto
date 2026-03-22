@@ -1,0 +1,11 @@
+public enum Phase {
+    IMMEDIATE,
+    TURN,
+    SUSTENANCE_EVENT,
+    SHAMAN_EVENT,
+    HUNT_EVENT,
+    PAINT_EVENT,
+    END_GAME,
+    PASSIVE,
+    INVENTORS
+}
